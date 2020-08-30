@@ -1,6 +1,5 @@
 <?php
 
-
 session_start();
 
 $db_host="localhost:3307";
